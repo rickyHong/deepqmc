@@ -1,4 +1,6 @@
-# DeepQMC
+# DeepQMC (PauliNet)
+
+https://arxiv.org/pdf/1909.08423.pdf
 
 [![build](https://img.shields.io/travis/com/deepqmc/deepqmc/master.svg)](https://travis-ci.com/deepqmc/deepqmc)
 [![coverage](https://img.shields.io/codecov/c/github/deepqmc/deepqmc.svg)](https://codecov.io/gh/deepqmc/deepqmc)
